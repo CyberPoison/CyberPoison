@@ -1,10 +1,10 @@
-<span style="font-family:IBM Plex Mono; font-size: 14em">
+<span style="font-family: IBM Plex Mono; font-size: 14em; background: dark"  >
                                                   
-                                                            🚀 Welcome to CyberPoison main GitHub Profile 🚀
-
+  <p align="center"> 🚀 Welcome to CyberPoison main GitHub Profile 🚀 </p>
+  <p></p>
+  
     Note:  this profile is the main Profile, and have partial fork of the dev profile @ruCyberPoison. 
 
-</span>
 
 ---
 
@@ -28,7 +28,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                                                                         📺 Free time 🎮
+ <p align="center"> 📺 Free time 🎮 </p>
 
 - Video Streaming, OTT, SAT/Cable signals, SAT>IP as Well Live Video entertainment.
 
@@ -39,8 +39,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 - Looking close on the status development of [Sudobox.io](https://sudobox.io/) Project wish is a All in One Media Server deploy system, it is developed by some devs that comes from [MHA-Team · GitHub](https://github.com/MHA-Team).
 
  
-
-                                                                         🔓 Security 🔓
+<p align="center"> 🔓 Security 🔓 </p>
 
 - Looking for new exploits, jailbreak and server faults on server and equipment that i own.
 
@@ -50,7 +49,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                                                                          ☁️ Cloud ☁️
+<p align="center"> ☁️ Cloud ☁️ </p>
 
 - Google Cloud Platform (GCE, GKE, BigQuery, DataStudios, CloudSQL Cloud Storage, Google Cloud Text-to-Speak).
 
@@ -60,7 +59,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                                                                          💻 Coding 💻
+<p align="center"> 💻 Coding 💻 </p>
 
 - Python with or without some framework e.g:. Django Framework.
 
@@ -80,10 +79,11 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                                                             ☕ Big lover of Ubuntu and Debian OS ☕
+  <p align="center"> ☕ Big lover of Ubuntu and Debian OS ☕ </p>
 
 - Visual Code for as Programming software as well i also use Vim as quick code editor.
 
+  <p></p>
 
 
 My collaboration in other python projects:. 
