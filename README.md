@@ -1,5 +1,6 @@
 <span style="font-family:IBM Plex Mono; font-size: 14em">
-        **🚀 Welcome to CyberPoison main GitHub Profile 🚀**
+                                                  
+                                                            🚀 Welcome to CyberPoison main GitHub Profile 🚀
 
     Note:  this profile is the main Profile, and have partial fork of the dev profile @ruCyberPoison. 
 
@@ -27,7 +28,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                      📺 Free time 🎮
+                                                                         📺 Free time 🎮
 
 - Video Streaming, OTT, SAT/Cable signals, SAT>IP as Well Live Video entertainment.
 
@@ -39,7 +40,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
  
 
-                       🔓 Security 🔓
+                                                                         🔓 Security 🔓
 
 - Looking for new exploits, jailbreak and server faults on server and equipment that i own.
 
@@ -49,7 +50,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                       ☁️ Cloud ☁️
+                                                                          ☁️ Cloud ☁️
 
 - Google Cloud Platform (GCE, GKE, BigQuery, DataStudios, CloudSQL Cloud Storage, Google Cloud Text-to-Speak).
 
@@ -59,7 +60,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-                        💻 Coding 💻
+                                                                          💻 Coding 💻
 
 - Python with or without some framework e.g:. Django Framework.
 
@@ -79,7 +80,7 @@ Before DevSecOps i was i was a current user of the DevOps and SysAdmin Tools lik
 
 
 
-          ☕ Big lover of Ubuntu and Debian OS ☕
+                                                             ☕ Big lover of Ubuntu and Debian OS ☕
 
 - Visual Code for as Programming software as well i also use Vim as quick code editor.
 
@@ -94,3 +95,4 @@ My collaboration in other python projects:.
 Collaboration on Dockers YAML Projects.
 
 - [GMHA-Team/Apps-Core](https://github.com/MHA-Team/Apps-Core)
+</span>
